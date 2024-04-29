@@ -7,7 +7,9 @@ public class Calculator {
 
     // 생성자
     public Calculator(String operator, int firstNumber, int secondNumber) {
-
+        this.operator = operator;
+        this.firstNumber = firstNumber;
+        this.secondNumber = secondNumber;
     };
     // 메서드
     double calculate (String operator, int firstNumber, int secondNumber) {
