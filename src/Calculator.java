@@ -1,5 +1,3 @@
-Step1,2
-
 // 더하기, 빼기, 나누기, 곱하기 연산을 수행하는 Calculator
 public class Calculator {
     // 필드
